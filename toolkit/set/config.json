@@ -31,7 +31,7 @@
         "maxCharge": 850
       },
       "autoai": {
-        "max": 100,
+        "max": 50,
         "delay": 3600000
       }
     },
@@ -46,23 +46,23 @@
         "foot": "└"
       },
       "tags": {
-        "ai": "*<🧠Artificial Intelegen>*",
-        "downloader": "*<📥Media Downloader>*",
-        "group": "*<🏢Only Group!>*",
-        "maker": "*<🖨Maker>*",
-        "owner": "*<👤Only owner!>*",
-        "religion": "*<☪️Religion>*",
-        "game": "*<🎮Game>*",
-        "RPG": "*<🗺RPG Survival>*",
-        "tools": "*<🛠Tools>*",
-        "search": "*<🔍Search>*",
-        "art": "*<🌌Art Works>*",
-        "stablediffusion": "*<🫧Stable Diffusion (AI)>*",
-        "tts": "*<🗣Text To Speech (AI)>*",
-        "voice_changer": "*<🎙Voice Changer (AI)>*",
-        "other": "*<Others>*",
-        "bluearchive": "*<Blue Archive TTS (AI)*",
-        "relationship": "*<💍Relationship>*"
+        "ai": "*AI MENU*",
+        "downloader": "*DOWNLOADER MENU*",
+        "group": "*GROUP MENU*",
+        "maker": "*MAKER MENU*",
+        "owner": "*OWNER MENU*",
+        "religion": "*RELIGION MENU*",
+        "game": "*GAME MENU*",
+        "RPG": "*RPG MENU*",
+        "tools": "*TOOLS MENU*",
+        "search": "*SEARCH MENU*",
+        "art": "*ART MENU*",
+        "stablediffusion": "*Stable Diffusion (AI)*",
+        "tts": "*Text To Speech (AI)*",
+        "voice_changer": "*Voice Changer (AI)*",
+        "other": "*Others*",
+        "bluearchive": "*Blue Archive TTS (AI)*",
+        "relationship": "*Relationship*"
       }
     },
     "donate": {},
